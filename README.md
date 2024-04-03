@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atharvaa12
+- 👋 Hi, I’m Atharva
 - 👀 I’m interested in Computer Science and Software Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web related technologies
